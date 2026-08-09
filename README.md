@@ -53,8 +53,3 @@ The project follows a 3-Tier Architecture:
 - ADO.NET
 ---
 
----
-
-## Author
-
-Ahmed Samy
