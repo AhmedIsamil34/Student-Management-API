@@ -15,11 +15,11 @@ The project focuses on applying clean architecture concepts, organizing code int
 - ASP.NET Core Web API
 - C#
 - SQL Server
-- Entity Framework Core
+- ADO.NET
 - 3-Tier Architecture
 - RESTful API
 - DTOs
-- AutoMapper
+
 
 ---
 
@@ -50,20 +50,8 @@ The project follows a 3-Tier Architecture:
 - CRUD Operations
 - Layered Architecture
 - DTO Pattern
-- AutoMapper
-- Dependency Injection
-- Entity Framework Core
-
+- ADO.NET
 ---
-
-## Future Improvements
-
-- Authentication & Authorization (JWT)
-- Repository Pattern
-- Unit of Work
-- Global Exception Handling
-- Pagination
-- Validation with FluentValidation
 
 ---
 
